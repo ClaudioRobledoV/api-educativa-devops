@@ -9,3 +9,6 @@ Para este proyecto se utiliza la estrategia GitFlow, ya que permite organizar el
 
 ## Feature: primer cambio
 Se agrega una mejora simulada al proyecto para evidenciar el uso de ramas feature.
+
+## Feature: segundo cambio
+Se agrega una segunda mejora simulada para continuar con el flujo colaborativo.
